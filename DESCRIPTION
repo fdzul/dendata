@@ -1,6 +1,6 @@
 Package: dendata
 Type: Package
-Title: the dendata package provides the dengue spatial databases (areal data) available and published in scientific journals.
+Title: the dendata package provides the dengue spatial databases (areal data) available and published in scientific journals
 Version: 0.1.0
 Author: Felipe Antonio Dzul Manzanilla
 Maintainer: The package maintainer <felipe.dzul.m@gmail.com>
