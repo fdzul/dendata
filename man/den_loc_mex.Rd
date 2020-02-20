@@ -17,6 +17,7 @@
   \item{DENV_2014}{number of dengue cases in 2014.}
   \item{DENV_2015}{number of dengue cases in 2015.}
   \item{DENV_2016}{number of dengue cases in 2016.}
+  \item{geometry}{simple feature.}
   ...
 }}
 \source{
