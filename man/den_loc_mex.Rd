@@ -4,7 +4,7 @@
 \name{den_loc_mex}
 \alias{den_loc_mex}
 \title{Dengue cases by AGEBs from nine locations in Mexico.}
-\format{A data frame with 2174 rows and 12 variables:
+\format{A sf object with 2174 rows and 12 variables:
 \describe{
   \item{CVEGEO}{the ids }
   \item{loc}{the name of locality}
