@@ -73,9 +73,9 @@ head(den_loc_mex)
 
 * **Felipe Antonio Dzul Manzanilla** -**https://github.com/fdzul** - Packages developed in github:
 
-- 1) [denhotspots](https://github.com/fdzul/denhotspots). 
-- 2) [boldenr](https://github.com/fdzul/boldenr). 
-- 3) [dendata](https://github.com/fdzul/deneggs).
+ 1) [denhotspots](https://github.com/fdzul/denhotspots). 
+ 2) [boldenr](https://github.com/fdzul/boldenr). 
+ 3) [dendata](https://github.com/fdzul/deneggs).
 
 * **Fabian Correa Morales**
 * **Luis Hernández Herrera**
