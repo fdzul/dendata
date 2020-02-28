@@ -46,7 +46,7 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(dendata)
 ## basic example code
-head(den_loc_mex)
+head(den_loc_mex[,c(1:10)
 #>          CVEGEO DENV_2008 DENV_2009 DENV_2010 DENV_2011 DENV_2012
 #> 1 1200100010034         1         5         6         0        10
 #> 2 1200100010049         2        10         7         1         5
@@ -73,9 +73,9 @@ head(den_loc_mex)
 
 * **Felipe Antonio Dzul Manzanilla** -**https://github.com/fdzul** - Packages developed in github:
 
- 1) [denhotspots](https://github.com/fdzul/denhotspots). 
- 2) [boldenr](https://github.com/fdzul/boldenr). 
- 3) [dendata](https://github.com/fdzul/deneggs).
+  1) [denhotspots](https://github.com/fdzul/denhotspots). 
+  2) [boldenr](https://github.com/fdzul/boldenr). 
+  3) [dendata](https://github.com/fdzul/deneggs).
 
 * **Fabian Correa Morales**
 * **Luis Hernández Herrera**
