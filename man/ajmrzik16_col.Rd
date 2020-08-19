@@ -4,7 +4,8 @@
 \name{ajmrzik16_col}
 \alias{ajmrzik16_col}
 \title{Zika cases by municipality in the departament of Tolima, Colombia.}
-\format{A sf object with 46 rows and 6 variables:
+\format{
+A sf object with 46 rows and 6 variables:
 \describe{
   \item{NAME_0}{the country.}
   \item{NAME_1}{the name of departament.}
@@ -12,7 +13,8 @@
   \item{ZIKV_1516}{number of zika cases in 2015 & 2016 year.}
   \item{geometry}{simple feature.}
   ...
-}}
+}
+}
 \source{
 \url{https://f1000research.com/articles/5-568/v1#DS0}
 }
