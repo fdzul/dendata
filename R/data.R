@@ -18,7 +18,7 @@
 #'   \item{DENV2016}{number of dengue cases in 2016.}
 #'   \item{CHIKV2015}{number of chikungunya cases in 2015.}
 #'   \item{CHIKV2016}{number of chikungunya cases in 2016.}
-#'   \item{ZIKV2016}{number of zik cases in 2016.}
+#'   \item{ZIKV2016}{number of zika cases in 2016.}
 #'   \item{geometry}{simple feature.}
 #'   ...
 #' }
