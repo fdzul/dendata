@@ -7,15 +7,18 @@
 #' \describe{
 #'   \item{CVEGEO}{the ids }
 #'   \item{loc}{the name of locality}
-#'   \item{DENV_2008}{number of dengue cases in 2008.}
-#'   \item{DENV_2009}{number of dengue cases in 2009.}
-#'   \item{DENV_2010}{number of dengue cases in 2010.}
-#'   \item{DENV_2011}{number of dengue cases in 2011.}
-#'   \item{DENV_2012}{number of dengue cases in 2012.}
-#'   \item{DENV_2013}{number of dengue cases in 2013.}
-#'   \item{DENV_2014}{number of dengue cases in 2014.}
-#'   \item{DENV_2015}{number of dengue cases in 2015.}
-#'   \item{DENV_2016}{number of dengue cases in 2016.}
+#'   \item{DENV2008}{number of dengue cases in 2008.}
+#'   \item{DENV2009}{number of dengue cases in 2009.}
+#'   \item{DENV2010}{number of dengue cases in 2010.}
+#'   \item{DENV2011}{number of dengue cases in 2011.}
+#'   \item{DENV2012}{number of dengue cases in 2012.}
+#'   \item{DENV2013}{number of dengue cases in 2013.}
+#'   \item{DENV2014}{number of dengue cases in 2014.}
+#'   \item{DENV2015}{number of dengue cases in 2015.}
+#'   \item{DENV2016}{number of dengue cases in 2016.}
+#'   \item{CHIKV2015}{number of chikungunya cases in 2015.}
+#'   \item{CHIKV2016}{number of chikungunya cases in 2016.}
+#'   \item{ZIKV2016}{number of zik cases in 2016.}
 #'   \item{geometry}{simple feature.}
 #'   ...
 #' }
