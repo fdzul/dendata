@@ -5,8 +5,8 @@
 #'
 #' @format A sf object with 2174 rows and 12 variables:
 #' \describe{
-#'   \item{CVEGEO}{the ids }
 #'   \item{loc}{the name of locality}
+#'   \item{CVEGEO}{the ids }
 #'   \item{DENV2008}{number of dengue cases in 2008.}
 #'   \item{DENV2009}{number of dengue cases in 2009.}
 #'   \item{DENV2010}{number of dengue cases in 2010.}
@@ -22,7 +22,7 @@
 #'   \item{geometry}{simple feature.}
 #'   ...
 #' }
-#' @source \url{https://osf.io/8bjy5/}
+#' @source \url{https://data.mendeley.com/datasets/m6nvnzgzdt/1}
 "den_loc_mex"
 
 #' Zika cases by municipality in the departament of Tolima, Colombia.
