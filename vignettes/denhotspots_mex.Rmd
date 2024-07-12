@@ -15,5 +15,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
+library(sf)
 library(dendata)
+head(den_loc_mex)
 ```

@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of dendata is to …
+The goal of dendata is to provide the dengue data that is available and
+published in the scientific articles on dengue
 
 ## Installation
 
@@ -14,14 +15,6 @@ You can install the development version of dendata from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("fdzul/dendata")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(dendata)
+# install.packages("pak")
+pak::pkg_install("fdzul/dendata")
 ```
